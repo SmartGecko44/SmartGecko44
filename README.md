@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning how to code with python, HTML, Java and Javascript
 - 💞️ I’m looking to collaborate on everything I make because I am terrible at coding
-- 📫 You can reach me on discord at Gecko!#7026
+- 📫 You can reach me on discord at smartgecko44
 
 <!---
 SmartGecko44/SmartGecko44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
